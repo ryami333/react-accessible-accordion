@@ -1,5 +1,5 @@
 {
-  "name": "react-accessible-accordion",
+  "name": "@ryami333/react-accessible-accordion",
   "version": "0.5.0",
   "description": "Accessible Accordion component for React",
   "main": "dist/index.js",
@@ -21,7 +21,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/springload/react-accessible-accordion.git"
+    "url": "git+https://github.com/ryami333/react-accessible-accordion.git"
   },
   "babel": {
     "presets": [
